@@ -22,5 +22,8 @@
   "homepage": "https://github.com/basarat/ts-npm-module-consume#readme",
   "dependencies": {
     "ts-npm-module": "^1.0.5"
+  },
+  "devDependencies": {
+    "ts-npm-module": "^1.0.5"
   }
 }
